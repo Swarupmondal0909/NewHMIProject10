@@ -230,4 +230,12 @@ Children:
       Type: DynamicLink
       DataType: NodePath
       Value: "/Objects/NewHMIProject10@BrowseName"
+  - Name: Label1
+    Type: Label
+    Children:
+    - Name: Text
+      Type: BaseDataVariableType
+      DataType: LocalizedText
+      ModellingRule: Optional
+      Value: {"LocaleId":"en-US","Text":"Label1"}
 - File: Screens/Screens.yaml
