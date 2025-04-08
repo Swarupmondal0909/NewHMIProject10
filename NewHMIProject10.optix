@@ -6,8 +6,8 @@ Project:
  Company: ''
  Copyright: ''
  FormatVersion: 1
- ProductVersion: 1.4
- CoreVersion: 3.0
+ ProductVersion: 1.5
+ CoreVersion: 4.0
  Dependencies:
   2:
    Uri: 'urn:FTOptix:CoreBase'
@@ -16,15 +16,15 @@ Project:
   3:
    Uri: 'urn:FTOptix:UI'
    Module: FTOptix.UI
-   Version: 12.4
+   Version: 14.2
   4:
    Uri: 'urn:FTOptix:HMIProject'
    Module: FTOptix.HMIProject
-   Version: 6.1
+   Version: 6.5
   5:
    Uri: 'urn:FTOptix:NativeUI'
    Module: FTOptix.NativeUI
-   Version: 2.0
+   Version: 2.1
   6:
    Uri: 'urn:FTOptix:Retentivity'
    Module: FTOptix.Retentivity
@@ -32,16 +32,16 @@ Project:
   8:
    Uri: 'urn:FTOptix:CommunicationDriver'
    Module: FTOptix.CommunicationDriver
-   Version: 2.1
+   Version: 3.0
   9:
    Uri: 'urn:FTOptix:RAEtherNetIP'
    Module: FTOptix.RAEtherNetIP
-   Version: 3.0
+   Version: 6.3
  Statistics:
-  TotalNodeCount: 154
-  Objects: 75
+  TotalNodeCount: 159
+  Objects: 77
   ObjectTypes: 1
-  Variables: 78
+  Variables: 81
   VariableTypes: 0
   DataTypes: 0
   Methods: 0

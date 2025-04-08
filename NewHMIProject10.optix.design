@@ -5,8 +5,8 @@ Project:
  Company: ''
  Copyright: ''
  FormatVersion: 1
- ProductVersion: 1.4
- CoreVersion: 3.0
+ ProductVersion: 1.5
+ CoreVersion: 4.0
  Dependencies:
   2:
    Uri: NewHMIProject10
