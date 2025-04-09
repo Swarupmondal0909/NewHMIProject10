@@ -259,6 +259,25 @@ Children:
       DataType: Size
       ModellingRule: Optional
       Value: 25.0
+  - Name: Label2
+    Type: Label
+    Children:
+    - Name: Text
+      Type: BaseDataVariableType
+      DataType: LocalizedText
+      ModellingRule: Optional
+      Value: {"LocaleId":"en-US","Text":"Label2"}
+  - Name: SpinBox2
+    Type: SpinBox
+    Children:
+    - Name: Value
+      Type: BaseDataVariableType
+      DataType: Double
+    - Name: Width
+      Type: BaseVariableType
+      DataType: Size
+      ModellingRule: Optional
+      Value: 80.0
 - File: Screens/Screens.yaml
 - Name: Screen1
   Id: g=26b33423670f043f3031dde5cc8869cd
