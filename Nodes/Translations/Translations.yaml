@@ -9,8 +9,19 @@ Children:
   Value: 
    {
     "Type": 12,
-    "Dimensions": [1,2],
+    "Dimensions": [12,2],
     "Body": [
-     "","en-US"
+     "","en-US",
+     "From","From",
+     "To","To",
+     "Message","Message",
+     "Refresh","Refresh",
+     "SourceName","Source Variable",
+     "Timestamp","Timestamp",
+     "Name","Name",
+     "Active","Active",
+     "Acked","Acked",
+     "Confirmed","Confirmed",
+     "Severity","Severity"
     ]
    }
